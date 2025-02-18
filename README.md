@@ -31,9 +31,9 @@ src/
 
 Contains helper functions and shared themes.
 
-src_Linear modelling workflow_support functions.R - ???
+src_Linear modelling workflow_support functions.R - Helper functions and themes adapated from glmmTMB package
 
-src_OASIS_EIB_utils.R - ???
+src_OASIS_EIB_utils.R - Custom helper functions and themes
 
 
 ## Contact
