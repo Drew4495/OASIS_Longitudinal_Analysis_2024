@@ -1,16 +1,4 @@
-# OASIS_Longitudinal_Analysis_2024
-Excitation-Inhibition Ratio Analysis showing a sex and APOE-e4 trajectory interaction using the OASIS dataset
-
-For easy following and replication with minimal customizations, please only consult the script titled ""
-
-Two other scripts (one for global EIR and one for DMN-limbic functional network) are provided only for transparency and have not undergone extensive cleaning for easier use.
-
-- All scripts are in scripts directory
-- All helper functions and themes are in src ("source") directory
-
-This repository contains an Excitation-Inhibition Ratio (EIR) analysis examining how sex and APOE-e4 status interact over time using the OASIS dataset.
-
-# Overview
+# Overview: OASIS_Longitudinal_Analysis_2025
 Primary Goal: Investigate EIR changes over time based on sex and APOE-e4 trajectories.
 Data Source: OASIS (Open Access Series of Imaging Studies).
 
