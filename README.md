@@ -17,13 +17,23 @@ These supplementary scripts have not undergone extensive cleanup or documentatio
 
 ## Repository Structure
 scripts/
+
 Contains all analysis scripts:
+
 Manuscript_StatModeling_OASIS_Longitudinal.R – Main script for replicating the longitudinal EIR analysis.
+
 MANUSCRIPT_OASIS_Dataset_LMM_Longitudinal.R – Global EIR script (for reference).
+
 MANUSCRIPT_OASIS_Dataset_LMM_Longitudinal_FuncNetworks_DMNAggregated.R – DMN-limbic network script (for reference).
 
+
 src/
+
 Contains helper functions and shared themes.
+
+src_Linear modelling workflow_support functions.R - ???
+
+src_OASIS_EIB_utils.R - ???
 
 
 ## Contact
